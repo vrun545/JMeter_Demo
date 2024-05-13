@@ -57,7 +57,7 @@ The sample test plan includes the following components:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/vrun545/JMeter_Demo.git
     ```
 
 2. Open JMeter and load the test plan named "DemoQA.jmx".
